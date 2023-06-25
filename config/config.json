@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "app-customizer-log-console-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/appCustomizerLogConsole/AppCustomizerLogConsoleApplicationCustomizer.js",
+          "manifest": "./src/extensions/appCustomizerLogConsole/AppCustomizerLogConsoleApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AppCustomizerLogConsoleApplicationCustomizerStrings": "lib/extensions/appCustomizerLogConsole/loc/{locale}.js"
+  }
+}
