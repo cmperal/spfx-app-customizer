@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-extension-manifest.schema.json",
 
   "id": "d1595393-4d79-40f9-81e2-d3a08643f9f5",
-  "alias": "AppCustomizerLogConsoleApplicationCustom",
+  "alias": "appCustomizerPlaceholdersApplication",
   "componentType": "Extension",
   "extensionType": "ApplicationCustomizer",
 

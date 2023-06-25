@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://{tenantDomain}/SitePages/myPage.aspx",
+      "pageUrl": "https://cmperal.sharepoint.com/sites/DeveloperSite/SitePages/myPage.aspx",
       "customActions": {
         "d1595393-4d79-40f9-81e2-d3a08643f9f5": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "appCustomizerLogConsole": {
-      "pageUrl": "https://{tenantDomain}/SitePages/myPage.aspx",
+      "pageUrl": "https://cmperal.sharepoint.com/sites/DeveloperSite/SitePages/myPage.aspx",
       "customActions": {
         "d1595393-4d79-40f9-81e2-d3a08643f9f5": {
           "location": "ClientSideExtension.ApplicationCustomizer",

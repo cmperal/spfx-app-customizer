@@ -5,14 +5,14 @@
     "app-customizer-log-console-application-customizer": {
       "components": [
         {
-          "entrypoint": "./lib/extensions/appCustomizerLogConsole/AppCustomizerLogConsoleApplicationCustomizer.js",
-          "manifest": "./src/extensions/appCustomizerLogConsole/AppCustomizerLogConsoleApplicationCustomizer.manifest.json"
+          "entrypoint": "./lib/extensions/appCustomizerPlaceholders/AppCustomizerPlaceholdersApplicationCustomizer.js",
+          "manifest": "./src/extensions/appCustomizerPlaceholders/AppCustomizerPlaceholdersApplicationCustomizer.manifest.json"
         }
       ]
     }
   },
   "externals": {},
   "localizedResources": {
-    "AppCustomizerLogConsoleApplicationCustomizerStrings": "lib/extensions/appCustomizerLogConsole/loc/{locale}.js"
+    "AppCustomizerPlaceholderApplicationCustomizerStrings": "lib/extensions/appCustomizerPlaceholders/loc/{locale}.js"
   }
 }
